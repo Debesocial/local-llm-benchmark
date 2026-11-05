@@ -1,0 +1,3 @@
+include LICENSE README.md README.id.md prompts-id.txt llmload.conf.example
+include run.bat run.ps1 run.sh mock_llm.bat mock_llm.sh
+recursive-include tests *.py

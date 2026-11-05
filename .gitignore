@@ -1,0 +1,14 @@
+# Local settings: may contain an API key (see llmload.conf.example)
+llmload.conf
+
+# Benchmark output (CSV / JSON / HTML reports)
+hasil/
+
+# Python
+__pycache__/
+*.pyc
+
+# Packaging
+build/
+dist/
+*.egg-info/
