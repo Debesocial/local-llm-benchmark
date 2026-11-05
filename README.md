@@ -9,15 +9,7 @@
 [![Dependencies](https://img.shields.io/badge/Dependencies-Zero%20(Pure%20Stdlib)-orange.svg)](#key-features)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)](#quickstart)
 
-```text
-==========================================================================
-  (\·▛▀▀▀▜·/)   LLM Benchmark  v2.0.0
-   ▜ • ‿ • ▛▘   LLM Latency, Speed & Concurrency Benchmark
-    ▘▘   ▝▝
-==========================================================================
-```
-
----
+<img width="994" height="595" alt="image" src="https://github.com/user-attachments/assets/af5f4475-2c75-40d3-9405-589e5d99380c" />
 
 ## Table of Contents
 - [Why LLM Benchmark?](#why-llm-benchmark)
