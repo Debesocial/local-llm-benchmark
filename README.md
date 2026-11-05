@@ -1,4 +1,4 @@
-# LLM Benchmark 🚀
+# Local LLM Benchmark 🚀
 
 **English** · [Bahasa Indonesia](./README.id.md)
 
